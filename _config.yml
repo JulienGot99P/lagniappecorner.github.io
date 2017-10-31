@@ -5,17 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "contrast" 
+# "air", "default", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "LAGNIAPPE CORNER"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : 
+description              : "the 13th donut in the bag"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "LagniappeCorner/lagniappecorner.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,14 +66,19 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  publisher              : "https://www.facebook.com/LagniappeCorner/"
+og_image                 : /assets/images/site-logo.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization 
+  # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://www.facebook.com/LagniappeCorner/"
+    - "https://www.instagram.com/lagniappecorner/"
+
+  # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -83,10 +89,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "JGot99P"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : 
+  location         : "Paris"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +105,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/juliengot99p/"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -111,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
