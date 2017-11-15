@@ -1,41 +1,37 @@
 ---
-
 title: Jay Prince's Live In Paris  
 date: '2017-01-01T15:46:47+01:00'
 tags:
-- giphy
 - jay prince
-- smile good
-- live music
-- concert
+- mixtape
+- live 
 - paris
-- new morning
-- rap
+
 tumblr_url: http://lagniappecorner.com/post/155248431173/tropical-london-the-bright-red-carpet-of-the-lobby
 ---
-<img src="http://78.media.tumblr.com/9fcce0ebb01376e4197d7eb35a7a8d21/tumblr_oj3vpz2kgW1w0utwjo2_r1_1280.jpg"/><br/><img src="http://78.media.tumblr.com/197d1da5de2c5c5a4dab1ae3130ae509/tumblr_oj3vpz2kgW1w0utwjo1_250.gif"/>
-<p>The bright red carpet of the lobby was contrasting with the cold night outside. Walls were trembling with the loud bass reasonating from behind the swing door. 
+![jayprincelive]({{ "/assets/images/jayprincelive.jpg" | absolute_url }})
+<p align="justify">The bright red carpet of the lobby was contrasting with the cold night outside. Walls were trembling with the loud bass reasonating from behind the swing door. 
 <b>The New morning</b>, a jazz club in the 10th district of Paris, surely looked like it was about to fall appart, 
 but it had that ageless charm appreciated by the hipster inside of me.</p>
 
-<p>My girlfriend and I showed our
+<p align="justify">My girlfriend and I showed our
 tickets and, a few minutes later, settled ourselves in front of
 the stage, while sipping respectively a Martini and a bottled Heineken.
 Onstage, <b>Jay Prince</b> was energetically shaking a head full of
 dreadlocks, in a tropical scenary that achieved to make us forget about the
-winter. </p>
+winter.</p>
 
-<p>The London born rapper was in
+<p align="justify">The London born rapper was in
 Paris to perform his last album <i>Smile Good, </i>and confirm
 the little hype starting to build around him. Jay Prince is the typical
 multi-talented rapper : MC, singer, musician. His ease allows him to stay
 natural, and fully interact with an audience charmed by his skills and
 enthusiasm (and incidentely give a lesson to all rappers using pre-recorded
-vocals). </p>
+vocals).</p>
 
-<p>Jay Prince refers to his own
+<p align="justify">Jay Prince refers to his own
 style as mellow nostalgic Hip-Hop, but it really doesn’t feel
 outdated. It blooms in a live show, with just the right balance between
-contemporary trap beats and a more timeless jazzy vibe.  </p>
+contemporary trap beats and a more timeless jazzy vibe.</p>
 
 <p>Definitely a 2017 watch-on.</p>
