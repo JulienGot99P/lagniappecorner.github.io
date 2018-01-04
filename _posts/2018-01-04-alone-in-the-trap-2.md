@@ -17,8 +17,8 @@ header:
 <p style="text-align: justify;">You regain consciousness in the middle of a wrecked street. The ruins around look familiar, but your memory is failing. A dismal draught makes you realize you&rsquo;re completely naked. Opening your clenched fist, you discover a tiny piece of electronic in your palm.</p>
 <p style="text-align: justify;">A sudden deflagration slaps your face with dust. At the corner of the street, a giant shadowy form starts creeping from behind a collapsed wall, with a metallic sound. &ldquo;Surrender the microchip&rdquo; orders a voice from beyond the grave.</p>
 <ul>
-<li style="text-align: justify;">Press #0001 on your keyboard if you choose to give the microchip and lead humanity into slavery;</li>
-<li style="text-align: justify;">Press #0101 on your keyboard if you choose to run away and live the rest of your existence hunted like a prey.</li>
+<li style="text-align: justify;">Enter #0001 if you choose to give the microchip and lead humanity into slavery;</li>
+<li style="text-align: justify;">Enter #0101 if you choose to run away and live the rest of your existence hunted like a prey.</li>
 </ul>
 </td>
 </tr>
