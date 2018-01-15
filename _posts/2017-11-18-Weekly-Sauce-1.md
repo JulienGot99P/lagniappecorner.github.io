@@ -1,5 +1,5 @@
 ---
-title: "Weekly Sauce #1" 
+title: "Weekly Sauce" 
 date: '2017-11-18T01:09:12+02:00'
 tags:
 - playlist
