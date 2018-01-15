@@ -21,6 +21,6 @@ was born in Mexico City and crossed the American border when he was 10. Until re
 work with old figures (<b>Migos</b>, <b>ILoveMakonnen</b>, <b>Ferg</b>) and newcomers (<b>Uzi</b>, <b>Lil Pump</b>, <b>Smokepurpp</b>). A name we'll here a lot in the future.<br/></p><p>You can stream
 and download the mixtape <a href="http://www.datpiff.com/Hoodrich-Pablo-Juan-x-Danny-Wolf-HoodWolf-mixtape.842845.html">here</a>.</p>
 <hr>
-<p align="justfify"><b>Plus<b> : If you want to learn more about Danny Wolf, you can check his interview with No Jumper below.
+<p align="justfify"><b>Plus</b> : If you want to learn more about Danny Wolf, you can check his interview with No Jumper below.
 
  </p><figure class="tmblr-embed tmblr-full" data-provider="youtube" data-orig-width="540" data-orig-height="304" data-url="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3Bnxum4d7uQ"><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/3Bnxum4d7uQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen=""></iframe></figure>
